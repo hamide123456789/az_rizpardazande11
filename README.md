@@ -4,4 +4,4 @@
 ---
 
 
-![alt text](image.jpg)
+![عکس من](./pic/what-is-CPU-Core-main.jpg)
